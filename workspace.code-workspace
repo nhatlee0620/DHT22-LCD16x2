@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\DHT11_Test_VScode"
+		},
+		{
+			"name": "DTH22_Lcd16x2_VScode",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
